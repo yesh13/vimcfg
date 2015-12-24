@@ -1,3 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
-let g:netrw_dirhist_1='/Users/shuhao/Downloads/opencv-3.0.0-rc1/cmake'
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/shuhao/Projects/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/work/Catalina/localhost/gehim'
+let g:netrw_dirhist_2='/Users/shuhao/Projects/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/conf/Catalina/localhost'
+let g:netrw_dirhist_3='/Users/shuhao/Projects/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/temp'
+let g:netrw_dirhist_4='/Users/shuhao/Projects/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/work/Catalina/localhost/gehim'
+let g:netrw_dirhist_5='/Users/shuhao/Projects/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/gehim/WEB-INF'
+let g:netrw_dirhist_6='/Users/shuhao/Projects/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/todo/WEB-INF/classes/controller'
+let g:netrw_dirhist_7='/usr/share/terminfo'
+let g:netrw_dirhist_8='/Users/shuhao/Projects/hello/src/hello'
+let g:netrw_dirhist_9='/Users/shuhao/.vim/plugin'
