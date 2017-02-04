@@ -16,10 +16,17 @@ Plugin 'VundleVim/Vundle.vim'
 " Plugin 'tpope/vim-fugitive'
 Plugin 'Valloric/YouCompleteMe'
 Plugin 'fatih/vim-go'
+Plugin 'yesh13/html5.vim'
+Plugin 'tpope/vim-surround'
+Plugin 'MarcWeber/vim-addon-mw-utils'
+Plugin 'tomtom/tlib_vim'
+Plugin 'garbas/vim-snipmate'
+Plugin 'pangloss/vim-javascript'
 
 " plugin from http://vim-scripts.org/vim/scripts.html
 " Plugin 'L9'
 Plugin 'The-NERD-Commenter'
+
 
 " Git plugin not hosted on GitHub
 " Plugin 'git://git.wincent.com/command-t.git'
@@ -52,6 +59,10 @@ syntax on
 set nu
 set tabstop=4
 set shiftwidth=4
+
+set foldmethod=indent
+set foldlevel=2
+let g:html_indent_script1 = "inc"
 
 
 " Golang
